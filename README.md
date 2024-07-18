@@ -23,7 +23,7 @@ The analysis is based on a comprehensive dataset containing:
 * Details about each stay (hotel location, duration, etc.)
 * Target variable: Reviewer_Score (1 for positive sentiment, 0 for negative)
 
-## 🛠️ Project Workflow
+## 🛠️ [Project Workflow](https://github.com/aidos-askhatuly/Hotel-Review-Sentiment-Analysis/blob/main/Hotel_Reviews.ipynb)
 1. Data Preprocessing
 * Text cleaning and normalization
 * Feature engineering from stay details
